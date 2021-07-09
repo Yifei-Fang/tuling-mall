@@ -1,7 +1,8 @@
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\exception\BusinessException.java
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\IErrorCode.java
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\TokenInfo.java
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\ResultCode.java
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\CommonPage.java
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\CommonResult.java
-D:\tuling_project_prefect\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\exception\GateWayException.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\TokenInfo.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\CommonPage.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\ResultCode.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\IErrorCode.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\constant\RedisKeyPrefixConst.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\exception\GateWayException.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\exception\BusinessException.java
+D:\workSpace\IDEA\Tuling\tuling-mall\tulingmall-common\src\main\java\com\tuling\tulingmall\common\api\CommonResult.java
